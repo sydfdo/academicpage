@@ -12,7 +12,7 @@ title                    : "Sydni Fomas Do"
 title_separator          : "-"
 name                     : &name "Sydni Fomas Do"
 description              : &description "Marketing Doctoral Candidate, University of Arizona"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : www.sydnifomasdo.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpage"
 
