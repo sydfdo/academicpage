@@ -3,7 +3,7 @@ title: "Is Laughter the Best Marketing? Why This is the Wrong Question"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-laughter
-date: 2023
+date: 2023-01-01
 paperurl: 'https://doi.org/10.1016/j.copsyc.2023.101694'
 citation: 'Do, Sydni Fomas, Reimann, M., López, A., & Castaño, R. (2023). When Brand Narratives are Written in Metaphoric Terms, Can They Weaken Self–Brand Connections? Journal of the Association for Consumer Research. https://doi.org/10.1086/727831
 Do, Sydni Fomas, & Warren, C. (2023). Is Laughter the Best Marketing? Why This is the Wrong Question. Current Opinion in Psychology, 54, 101694. https://doi.org/10.1016/j.copsyc.2023.101694'
