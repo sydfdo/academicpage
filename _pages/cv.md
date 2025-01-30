@@ -11,35 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Marketing, University of Arizona, 2026 (expected)
+* B.B.A in Marketing, University of Kentucku, 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022-2023: Marketing Research Consultant
+  * Magnolia Impact Solutions
+  * Duties includes: Data Collection and Analysis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022-2024: Marketing Research Consultant
+  * GreenPath Financial Wellness
+  * Duties included: Designing of field experiment and data analysis
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-2021: Commercial Lines Underwriter
+  * Auto-Owners Insurance Company
+  * Duties included: Analysis of  risk portfolios for commercial clients, utilizing quantitative and qualitative methods to evaluate potential risk exposure
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: R, Stata, Python
+* Quantitative Research Methods
+  * Experimental Design
+  * Statistical Modeling
+  * Survey Research
+* Qualitative Research Methods
+  * In-depth Interviews
+  * Content Analysis
 
 Publications
 ======
@@ -59,6 +57,16 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards and Honors
 ======
-* Currently signed in to 43 different slack teams
+* Arizona Think Tank for Behavioral Decision-Making PhD Student Affiliate, 2024-2025
+* Society for Consumer Psychology Diversity Travel Scholarship, 2024
+* Dr. Eli Jones Promising Young Scholar Award, 2024
+* American Marketing Association Valuing Diversity PhD Scholarship, 2024
+* African American Student Association Campus Community Partner of the Year, 2024
+* Eller Diversity Equity and Inclusion Award Nominee, 2024
+* Marketing and Public Policy Junior Scholar Workshop Fellow, 2024
+* City University of New York Baruch Research Symposium Fellow, 2024
+* Association for Consumer Research Doctoral Symposium Best Research Idea, 2022
+* CARMA Short Course Scholarship, 2021
+
