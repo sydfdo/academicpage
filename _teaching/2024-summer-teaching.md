@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-summer-teaching
 venue: "University of Arizona"
-date: 2024
+date: 2024-05-01
 location: "Tucson, Az"
 ---
 
