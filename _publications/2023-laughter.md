@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-laughter
 venue: 'Current Opinion in Psychology'
-date: 2023-01-01
+date: 2023
 paperurl: 'https://doi.org/10.1016/j.copsyc.2023.101694'
 citation: 'Do, Sydni Fomas, & Warren, C. (2023). Is Laughter the Best Marketing? Why This is the Wrong Question. Current Opinion in Psychology, 54, 101694. https://doi.org/10.1016/j.copsyc.2023.101694'
 ---
