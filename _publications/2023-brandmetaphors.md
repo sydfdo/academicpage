@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-brandmetaphors
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023
+date: 2023-01-01
 venue: 'Journal of the Association for Consumer Research'
 slidesurl: 
 paperurl: 'https://doi.org/10.1086/727831'
